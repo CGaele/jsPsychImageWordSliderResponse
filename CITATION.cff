@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gaele
+    given-names: Claudia
+    orcid: https://orcid.org/0000-0002-1453-3428
+title: "jsPsych Plugin: Image Word Slider Response"
+version: 1
+identifiers:
+  - type: doi
+    value: https://github.com/CGaele/jsPsychImageWordSliderResponse
+date-released: 2025-05-12
