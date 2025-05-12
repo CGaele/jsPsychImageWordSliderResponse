@@ -1,6 +1,6 @@
 # jsPsychImageWordSliderResponse
 
-This plugin is based on Josh de Leeuw's [jsPsychHtmlSliderResponse](www.jspsych.org/v7/plugins/html-slider-response/) plugin and Daiichiro Kuroki's [jsPsychSurveyImageLikert](github.com/kurokida/jsPsychSurveyImageLikert/tree/main) plugin.    
+This plugin is based on Josh de Leeuw's [jsPsychImageSliderResponse](https://www.jspsych.org/v7/plugins/image-slider-response/) plugin and Daiichiro Kuroki's [jsPsychSurveyImageLikert](github.com/kurokida/jsPsychSurveyImageLikert/tree/main) plugin.    
   
 <br>
 
