@@ -25,7 +25,7 @@ A jsPsych plugin for collecting responses to image–word pairs using a slider. 
 
 <br>
 
-**Demo code**
+**Demo**
 ```html
 <!DOCTYPE html>
 <html>
