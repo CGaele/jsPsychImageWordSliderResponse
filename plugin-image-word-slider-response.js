@@ -248,7 +248,7 @@ var jsPsychImageWordSliderResponse = (function (jspsych) {
                 const q = trial.questions[i];
                 // Note: Question numbers won't save with 'Q', only the number. E.g.: '1' instead of 'Q1'.
                 const simulated_value = this.jsPsych.randomization.randomInt(q.min, q.max);
-                response_data[name] = simulated_value;
+                response_data[q.name] = simulated_value;
                 rt += this.jsPsych.randomization.sampleExGaussian(1500, 400, 1 / 200, true);
             }
 
